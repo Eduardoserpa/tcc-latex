@@ -1,0 +1,1904 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.9)  19 OCT 2026 15:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/TCC/abntexto-ufc-tcc/main.tex
+(d:/TCC/abntexto-ufc-tcc/main.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\documentmetadata-support.ltx (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfmanagement\pdfmanagement-init.sty
+Package: pdfmanagement-init 2026-05-26 v0.97c LaTeX PDF management bundle
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tagpdf\tagpdf-base.sty
+Package: tagpdf-base 2026-09-23 v1.0g part of tagpdf - provide base, no-op versions of the user commands 
+\c@g__tag_MCID_abs_int=\count276
+\c@g__tag_struct_abs_int=\count277
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfmanagement\pdfmanagement.ltx
+File: pdfmanagement.ltx 2026-05-26 v0.97c PDF management code
+\g__pdfmanagement_EmbeddedFiles_int=\count278
+\l__pdfmeta_xmp_indent_int=\count279
+\g_pdffile_embed_pdfa_int=\count280
+\g_pdffile_embed_nonpdfa_int=\count281
+\l_pdfoutline_open_int=\count282
+\g__pdfoutline_id_int=\count283
+\g__pdfoutline_current_level_int=\count284
+))) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfmanagement\l3backend-testphase-pdftex.def
+File: l3backend-pdf-pdftex.def 2026-05-26 v0.97c LaTeX PDF management bundle backend support: PDF output (pdfTeX)
+\l__pdf_backend_tmpa_box=\box53
+\l__pdf_backend_tmpb_box=\box54
+\g__pdf_backend_resourceid_int=\count286
+\g__pdf_backend_name_int=\count287
+\g__pdf_backend_page_int=\count288
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-latest.sty
+Package: latex-lab-testphase-latest 2026-05-02 v0.1g latex-lab modules
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tagpdf\tagpdf.sty
+Package: tagpdf 2026-09-23 v1.0g  LaTeX kernel code for PDF tagging 
+\l__tag_tmpa_int=\count289
+\l__tag_tmpa_box=\box55
+\l__tag_tmpb_box=\box56
+\l__tag_loglevel_int=\count290
+\g__tag_unique_cnt_int=\count291
+\l__tag_tag_stop_int=\count292
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tagpdf\tagpdf-mc-code-generic.sty
+Package: tagpdf-mc-code-generic 2026-09-23 v1.0g part of tagpdf - code related to marking chunks - generic mode
+\g__tag_mc_marks=\marks4
+)
+\g__tag_tree_id_pad_int=\count293
+\c@g__tag_parenttree_obj_int=\count294
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-mathml.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-book.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-lab.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
+
+\g__tag_struct_AFobj_int=\count295
+\g__tag_para_begin_int=\count296
+\g__tag_para_end_int=\count297
+\g__tag_para_main_begin_int=\count298
+\g__tag_para_main_end_int=\count299
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-names.sty
+Package: latex-lab-testphase-names 2026-04-28 v0.8k Code related to the names of tags
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-new-or-2.sty
+Package: latex-lab-testphase-new-or-2 2026-01-16 v0.86d Changes to the output routine
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-footnotes.ltx
+File: latex-lab-footnotes.ltx 2026-04-28 v0.8p changes to the footnote interfaces
+\footnotemargin=\dimen150
+\g_fnote_id_int=\count300
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-block.sty
+Package: latex-lab-testphase-block 2026-06-10 v1.0c blockenv implementation
+
+LaTeX template Info: Declaring template type 'blockenv' taking 4 argument(s)
+(template)           on line 195.
+
+
+LaTeX template Info: Declaring template type 'list' taking 4 argument(s) on
+(template)           line 196.
+
+
+LaTeX template Info: Declaring template type 'captionedtext' taking 4
+(template)           argument(s) on line 197.
+
+
+LaTeX template Info: Declaring template type 'thmstyle' taking 4 argument(s)
+(template)           on line 198.
+
+
+LaTeX template Info: Declaring template type 'block' taking 1 argument(s) on
+(template)           line 199.
+
+
+LaTeX template Info: Declaring template type 'item' taking 1 argument(s) on
+(template)           line 200.
+
+
+LaTeX template Info: Declaring template type 'para' taking 1 argument(s) on
+(template)           line 201.
+
+\c@maxblocklevels=\count301
+\l_para_begin_skip=\skip49
+\l__block_unchained_skip=\skip50
+\l__block_botsep_skip=\skip51
+\l__block_parbotsep_skip=\skip52
+\l__block_parindent_dim=\dimen151
+\l__block_counter_start_int=\count302
+\l__block_one_label_box=\box57
+\g__block_labels_box=\box58
+\l__block_tmpa_skip=\skip53
+\l__block_effective_top_skip=\skip54
+\l__block_effective_bot_skip=\skip55
+\l__block_caption_before_skip=\skip56
+\l__block_caption_after_skip=\skip57
+
+LaTeX template Info: Declaring instance 'flushleft' of type blockenv on line
+(template)           1489.
+
+
+LaTeX template Info: Declaring instance 'flushright' of type blockenv on line
+(template)           1493.
+
+\@descriptiondepth=\count303
+
+LaTeX template Info: Declaring instance 'remark' of type thmstyle on line
+(template)           1791.
+
+
+LaTeX template Info: Declaring instance 'definition' of type thmstyle on line
+(template)           1796.
+
+
+LaTeX template Info: Declaring instance 'legacy2e' of type thmstyle on line
+(template)           1798.
+
+LaTeX Info: Redefining \centering on input line 1894.
+LaTeX Info: Redefining \raggedleft on input line 1895.
+LaTeX Info: Redefining \raggedright on input line 1896.
+LaTeX Info: Redefining \qed on input line 2238.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-enumitem.sty
+Package: latex-lab-enumitem 2026-04-21 v0.80f Emulating enumitem
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-context.sty
+Package: latex-lab-testphase-context 2026-05-26 v0.6a Providing context for instance, etc.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-kernel-changes.sty
+Package: latex-lab-kernel-changes 2026-04-27 v0.85j General kernel and class changes
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-sec.sty
+Package: latex-lab-testphase-sec 2026-04-28 v0.84o Code related to the tagging of heading commands
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-sec-template.sty
+Package: latex-lab-testphase-sec-template 2026-05-25 v0.9g heading implementation
+
+LaTeX template Info: Declaring template type 'heading' taking 9 argument(s) on
+(template)           line 177.
+
+
+LaTeX template Info: Declaring template type 'headformat' taking 6 argument(s)
+(template)           on line 178.
+
+\l__head_level_int=\count304
+\l__head_before_skip=\skip58
+\l__head_penalty_int=\count305
+\l__head_after_penalty_skip=\skip59
+\l__head_after_skip=\skip60
+\l__head_heading_indent_dim=\dimen152
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-toc.sty
+Package: latex-lab-testphase-toc 2026-04-28 v0.85k  Code related to the tagging of toc-like lists
+\g__tag_toc_level_int=\count306
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-minipage.sty
+Package: latex-lab-testphase-minipage 2026-04-24 v0.81k Code related to the tagging of minipages and parboxes
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-graphic.sty
+Package: latex-lab-testphase-graphic 2026-04-28 v0.80i Code related to the tagging of graphics
+\g__tag_graphic_int=\count307
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-float.sty
+Package: latex-lab-testphase-float 2026-04-24 v0.81n Code related to the tagging of floats
+\g__tag_float_int=\count308
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-bib.sty
+Package: latex-lab-testphase-bib 2026-05-28 v0.81f Code related to the tagging of bibliography and cite command
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-text.sty
+Package: latex-lab-testphase-text 2026-04-27 v0.85g Code related to the tagging of various small text commands
+LaTeX Info: Redefining \mbox on input line 108.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-marginpar.sty
+Package: latex-lab-testphase-marginpar 2026-04-24 v0.85i Changes related to the tagging of the margin notes
+\g__kernel_marginpar_int=\count309
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-title.sty
+Package: latex-lab-testphase-title 2026-05-27 v0.85g Changes related to the tagging of the title
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-table.sty
+Package: latex-lab-testphase-table 2026-04-28 v0.85t Code related to the tagging of tables
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box59
+\extrarowheight=\dimen154
+\NC@list=\toks17
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box60
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-math.sty
+Package: latex-lab-testphase-math 2025-03-10 v0.8d code related to the math tagging
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-math.ltx
+File: latex-lab-math.ltx 2026-05-27 v0.7e Grab all the math(s) and tag it
+\l__math_tmpa_skip=\skip63
+\g__math_mathml_total_int=\count310
+\g__math_mathml_int=\count311
+\g__math_math_total_int=\count312
+\g__math_mathml_AF_found_int=\count313
+\g__math_mathml_AF_attached_int=\count314
+\l__math_tmpa_box=\box61
+\l__math_mathstyle_int=\count315
+\g__math_mathchoice_int=\count316
+\l__math_grab_env_int=\count317
+\g__math_postdisplaypenalty_int=\count318
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-mathpkg.ltx
+File: latex-lab-mathpkg.ltx 2026-05-11 v0.1e mathpkg adaptions
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-mathintent.ltx
+File: latex-lab-mathintent.ltx 2026-01-16 v0.1c MathML intent attributes
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-firstaid.sty
+Package: latex-lab-testphase-firstaid 2026-06-08 v0.85x Temporary patches to external packages needed for the tagging project
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-testphase-tikz.sty
+Package: latex-lab-testphase-tikz 2026-05-12 v0.80i Code related to the tagging of tikz pictures
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfmanagement\pdfmanagement-firstaid.sty
+Package: pdfmanagement-firstaid 2026-05-26 v0.97c LaTeX PDF management bundle / firstaid-patches
+
+Package pdfmanagement Info: loading pdfmanagement firstaid code for pgf
+
+) (abntexto-ufc.cls
+Document Class: abntexto-ufc 2026/09/19 v3.0.4 UFC academic document class
+(abntexto.cls
+Document Class: abntexto 2026-05-08 1.1 Preparation of works in ABNT standards
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count319
+\c@section=\count320
+\c@subsection=\count321
+\c@subsubsection=\count322
+\c@paragraph=\count323
+\c@subparagraph=\count324
+\c@figure=\count325
+\c@table=\count326
+\abovecaptionskip=\skip64
+\belowcaptionskip=\skip65
+\bibindent=\dimen155
+)
+
+LaTeX template Info: Declaring instance 'part' of type heading on line 65.
+
+
+LaTeX template Info: Declaring instance 'part' of type headformat on line 65.
+
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count327
+\Gm@cntv=\count328
+\c@Gm@tempcnt=\count329
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks19
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count330
+)
+\csq@reset=\count331
+\csq@gtype=\count332
+\csq@glevel=\count333
+\csq@qlevel=\count334
+\csq@maxlvl=\count335
+\csq@tshold=\count336
+\csq@ltx@everypar=\toks20
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2026-05-19 v5.2p csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/knuth-lib\null.tex) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+LaTeX Info: Command `\normalsize' is already robust on input line 56.
+LaTeX Info: Redefining \small on input line 58.
+LaTeX Info: Redefining \footnotesize on input line 69.
+LaTeX Info: Redefining \scriptsize on input line 80.
+LaTeX Info: Redefining \tiny on input line 81.
+LaTeX Info: Redefining \large on input line 82.
+LaTeX Info: Redefining \Large on input line 83.
+LaTeX Info: Redefining \LARGE on input line 84.
+LaTeX Info: Redefining \huge on input line 85.
+)
+LaTeX Info: Redefining \normalsize on input line 269.
+\c@chapter=\count337
+\savedtitleskip=\skip66
+\savedlastskip=\skip67
+\c@appendix=\count338
+\c@annex=\count339
+\g__block_topics_depth_int=\count340
+
+LaTeX template Info: Declaring instance 'topics' of type blockenv on line
+(template)           1337.
+
+
+LaTeX template Info: Declaring instance 'topics-1' of type list on line 1337.
+
+\c@topicsi=\count341
+
+LaTeX template Info: Declaring instance 'topics-2' of type list on line 1337.
+
+\c@topicsii=\count342
+\savedplacewidth=\dimen166
+\c@subplace=\count343
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/08/21 v26.11 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count344
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2105.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2107.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2109.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2110.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2111.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2113.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2138.
+\U@D=\dimen167
+\l@unhyphenated=\language79
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count345
+Package babel Info: Metadata: 'pt-BR' requested, 'pt-BR' provided.
+(babel)             Fetching the locale name from babel-pt-BR.ini.
+(babel)             Passing 'brazilian' to babel.
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4332.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel-brazilian.tex)
+Package babel Info: Importing font and identification data for 'english'
+(babel)             from babel-en.ini. Reported on input line 4460.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+Package babel Info: Importing font and identification data for 'brazilian'
+(babel)             from babel-pt-BR.ini. Reported on input line 4460.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilian.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
+(babel)             (\language56). Reported on input line 100.
+Package babel Info: Making " an active character on input line 132.
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+\MT@toks=\toks21
+\MT@tempbox=\box62
+\MT@count=\count346
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks22
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen168
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count347
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip68
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
+ `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-08-10 L3 programming layer (loader) 
+)
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfmanagement\xcolor-patches-tmp-ltx.sty
+Package: xcolor-patches-tmp-ltx 2026-05-26 v0.97c patch xcolor for l3color
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count348
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count349
+\xs_countb=\count350
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count351
+\ntx@cnt=\count352
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [2024-11-01] Use figureversions if present on input line 74.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)
+Already applied: [0000-00-00] Fall back to v1 on input line 76.
+)
+\tx@sixem=\dimen169
+\tx@y=\dimen170
+\tx@x=\dimen171
+\tx@tmpdima=\dimen172
+\tx@tmpdimb=\dimen173
+\tx@tmpdimc=\dimen174
+\tx@tmpdimd=\dimen175
+\tx@tmpdime=\dimen176
+\tx@tmpdimf=\dimen177
+\tx@dimA=\dimen178
+\tx@dimAA=\dimen179
+\tx@dimB=\dimen180
+\tx@dimBB=\dimen181
+\tx@dimC=\dimen182
+LaTeX Info: Redefining \oldstylenums on input line 902.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2024/09/22 v1.754
+ `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip69
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen183
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen184
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count353
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count354
+\leftroot@=\count355
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count356
+\DOTSCASE@=\count357
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen185
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count358
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count359
+\dotsspace@=\muskip17
+\c@parentequation=\count360
+\dspbrk@lvl=\count361
+\tag@help=\toks26
+\row@=\count362
+\column@=\count363
+\maxfields@=\count364
+\andhelp@=\toks27
+\eqnshift@=\dimen186
+\alignsep@=\dimen187
+\tagshift@=\dimen188
+\tagwidth@=\dimen189
+\totwidth@=\dimen190
+\lineht@=\dimen191
+\@envbody=\toks28
+\multlinegap=\skip70
+\multlinetaggap=\skip71
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/latex-lab\latex-lab-amsmath.ltx
+File: latex-lab-amsmath.ltx 2026-04-25 v0.1j amsmath adaptions
+LaTeX Info: Redefining \eqref on input line 58.
+\l__luamml_struct_tmpa_int=\count365
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count366
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count367
+\tx@IsAlNum=\count368
+\tx@tA=\toks30
+\tx@tB=\toks31
+\tx@su=\read3
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/qhv/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/qhv/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/qhv/m/n --> OT1/qhv/b/n on input line 412.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 419.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 420.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 423.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 426.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 534.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 535.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 605.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 630.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
+\tx@sbptoks=\toks32
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 905.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 910.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 911.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 913.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 915.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 919.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 920.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 966.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 991.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
+LaTeX Info: Redefining \Bbbk on input line 2847.
+LaTeX Info: Redefining \not on input line 2995.
+LaTeX Info: Redefining \openbox on input line 3027.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count369
+\calc@Bcount=\count370
+\calc@Adimen=\dimen192
+\calc@Bdimen=\dimen193
+\calc@Askip=\skip72
+\calc@Bskip=\skip73
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count371
+\calc@Cskip=\skip74
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen194
+\ESO@tempdimb=\dimen195
+)
+\AM@pagewidth=\dimen196
+\AM@pageheight=\dimen197
+\AM@fboxrule=\dimen198
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count372
+\AM@pagebox=\box65
+\AM@global@opts=\toks33
+\AM@pagecnt=\count373
+\AM@toc@title=\toks34
+\AM@lof@heading=\toks35
+\c@AM@survey=\count374
+\AM@templatesizebox=\box66
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip75
+\RaggedLeftLeftskip=\skip76
+\RaggedRightLeftskip=\skip77
+\CenteringRightskip=\skip78
+\RaggedLeftRightskip=\skip79
+\RaggedRightRightskip=\skip80
+\CenteringParfillskip=\skip81
+\RaggedLeftParfillskip=\skip82
+\RaggedRightParfillskip=\skip83
+\JustifyingParfillskip=\skip84
+\CenteringParindent=\skip85
+\RaggedLeftParindent=\skip86
+\RaggedRightParindent=\skip87
+\JustifyingParindent=\skip88
+LaTeX Info: Redefining \justifying on input line 260.
+)
+\l_ufc_committee_count_int=\count375
+\l_ufc_signature_gap_dim=\dimen199
+\g_ufc_initial_page_int=\count376
+\l_ufc_catalog_page_int=\count377
+\c@grafico=\count378
+\c@code=\count379
+\c@algorithm=\count380
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2026/08/13 v3.22 programmable bibliographies (PK/MW)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count381
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count382
+\c@listtotal=\count383
+\c@listcount=\count384
+\c@liststart=\count385
+\c@liststop=\count386
+\c@citecount=\count387
+\c@citetotal=\count388
+\c@multicitecount=\count389
+\c@multicitetotal=\count390
+\c@instcount=\count391
+\c@maxnames=\count392
+\c@minnames=\count393
+\c@maxitems=\count394
+\c@minitems=\count395
+\c@citecounter=\count396
+\c@maxcitecounter=\count397
+\c@savedcitecounter=\count398
+\c@uniquelist=\count399
+\c@uniquename=\count400
+\c@refsection=\count401
+\c@refsegment=\count402
+\c@maxextratitle=\count403
+\c@maxextratitleyear=\count404
+\c@maxextraname=\count405
+\c@maxextradate=\count406
+\c@maxextraalpha=\count407
+\c@abbrvpenalty=\count408
+\c@highnamepenalty=\count409
+\c@lownamepenalty=\count410
+\c@maxparens=\count411
+\c@parenlevel=\count412
+\blx@tempcnta=\count413
+\blx@tempcntb=\count414
+\blx@tempcntc=\count415
+\c@blx@maxsection=\count416
+\blx@maxsegment@0=\count417
+\blx@notetype=\count418
+\blx@parenlevel@text=\count419
+\blx@parenlevel@foot=\count420
+\blx@sectionciteorder@0=\count421
+\blx@sectionciteorderinternal@0=\count422
+\blx@entrysetcounter=\count423
+\blx@biblioinstance=\count424
+\labelnumberwidth=\skip89
+\labelalphawidth=\skip90
+\biblabelsep=\skip91
+\bibitemsep=\skip92
+\bibnamesep=\skip93
+\bibinitsep=\skip94
+\bibparsep=\skip95
+\bibhang=\skip96
+\blx@bcfin=\read4
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count425
+\c@maxcomprange=\count426
+\c@mincompwidth=\count427
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2026/08/13 v3.22 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'abnt.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count428
+\c@savedafterword=\count429
+\c@annotator=\count430
+\c@savedannotator=\count431
+\c@author=\count432
+\c@savedauthor=\count433
+\c@bookauthor=\count434
+\c@savedbookauthor=\count435
+\c@commentator=\count436
+\c@savedcommentator=\count437
+\c@editor=\count438
+\c@savededitor=\count439
+\c@editora=\count440
+\c@savededitora=\count441
+\c@editorb=\count442
+\c@savededitorb=\count443
+\c@editorc=\count444
+\c@savededitorc=\count445
+\c@foreword=\count446
+\c@savedforeword=\count447
+\c@holder=\count448
+\c@savedholder=\count449
+\c@introduction=\count450
+\c@savedintroduction=\count451
+\c@namea=\count452
+\c@savednamea=\count453
+\c@nameb=\count454
+\c@savednameb=\count455
+\c@namec=\count456
+\c@savednamec=\count457
+\c@translator=\count458
+\c@savedtranslator=\count459
+\c@shortauthor=\count460
+\c@savedshortauthor=\count461
+\c@shorteditor=\count462
+\c@savedshorteditor=\count463
+\c@labelname=\count464
+\c@savedlabelname=\count465
+\c@institution=\count466
+\c@savedinstitution=\count467
+\c@lista=\count468
+\c@savedlista=\count469
+\c@listb=\count470
+\c@savedlistb=\count471
+\c@listc=\count472
+\c@savedlistc=\count473
+\c@listd=\count474
+\c@savedlistd=\count475
+\c@liste=\count476
+\c@savedliste=\count477
+\c@listf=\count478
+\c@savedlistf=\count479
+\c@location=\count480
+\c@savedlocation=\count481
+\c@organization=\count482
+\c@savedorganization=\count483
+\c@origlocation=\count484
+\c@savedoriglocation=\count485
+\c@origpublisher=\count486
+\c@savedorigpublisher=\count487
+\c@publisher=\count488
+\c@savedpublisher=\count489
+\c@language=\count490
+\c@savedlanguage=\count491
+\c@origlanguage=\count492
+\c@savedoriglanguage=\count493
+\c@pageref=\count494
+\c@savedpageref=\count495
+\shorthandwidth=\skip97
+\shortjournalwidth=\skip98
+\shortserieswidth=\skip99
+\shorttitlewidth=\skip100
+\shortauthorwidth=\skip101
+\shorteditorwidth=\skip102
+\locallabelnumberwidth=\skip103
+\locallabelalphawidth=\skip104
+\localshorthandwidth=\skip105
+\localshortjournalwidth=\skip106
+\localshortserieswidth=\skip107
+\localshorttitlewidth=\skip108
+\localshortauthorwidth=\skip109
+\localshorteditorwidth=\skip110
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+\c@textcitecount=\count496
+\c@textcitetotal=\count497
+\c@textcitemaxnames=\count498
+\c@biburlbigbreakpenalty=\count499
+\c@biburlbreakpenalty=\count500
+\c@biburlnumpenalty=\count501
+\c@biburlucpenalty=\count502
+\c@biburllcpenalty=\count503
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count504
+)
+Package biblatex Info: Trying to load bibliography style 'abnt'...
+Package biblatex Info: ... file 'abnt.bbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/bbx\abnt.bbx
+File: abnt.bbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count505
+\c@bbx:relatedtotal=\count506
+))
+Package biblatex Info: Trying to load citation style 'abnt'...
+Package biblatex Info: ... file 'abnt.cbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/cbx\abnt.cbx
+File: abnt.cbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear-comp.cbx
+File: authoryear-comp.cbx 2026/08/13 v3.22 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\citetitle'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2026-08-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2026/08/13 v3.22 expl3 case changing code for biblatex
+))) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write4
+ Excluding comment 'comment') (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabularray.sty
+Package: tabularray 2025-11-27 v2025C Typeset tabulars and arrays with LaTeX3
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/ninecolors\ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+)
+\g__tblr_nohyper_int=\count507
+\l__tblr_a_int=\count508
+\l__tblr_c_int=\count509
+\l__tblr_r_int=\count510
+\l__tblr_d_dim=\dimen256
+\l__tblr_h_dim=\dimen257
+\l__tblr_o_dim=\dimen258
+\l__tblr_p_dim=\dimen259
+\l__tblr_q_dim=\dimen260
+\l__tblr_r_dim=\dimen261
+\l__tblr_s_dim=\dimen262
+\l__tblr_t_dim=\dimen263
+\l__tblr_v_dim=\dimen264
+\l__tblr_w_dim=\dimen265
+\l__tblr_a_box=\box67
+\l__tblr_b_box=\box68
+\l__tblr_c_box=\box69
+\l__tblr_d_box=\box70
+\c@tblrcount=\count511
+\c@rownum=\count512
+\c@colnum=\count513
+\c@rowcount=\count514
+\c@colcount=\count515
+\abovesep=\dimen266
+\belowsep=\dimen267
+\leftsep=\dimen268
+\rightsep=\dimen269
+\gTblrLevelInt=\count516
+\g__tblr_data_row_key_count_int=\count517
+\g__tblr_data_column_key_count_int=\count518
+\g__tblr_data_cell_key_count_int=\count519
+\g__tblr_array_int=\count520
+\l__tblr_key_count_int=\count521
+\l__tblr_key_quotient_int=\count522
+\l__tblr_key_quotient_two_int=\count523
+\l__tblr_key_remainder_int=\count524
+\g__tblr_data_str_value_count_int=\count525
+\lTblrChildTotalInt=\count526
+\lTblrChildHtotalInt=\count527
+\lTblrChildVtotalInt=\count528
+\l__child_diff_h_int=\count529
+\l__child_diff_v_int=\count530
+\l__child_sign_h_int=\count531
+\l__child_sign_v_int=\count532
+\l__child_step_int=\count533
+\lTblrDefaultHruleWidthDim=\dimen270
+\lTblrDefaultVruleWidthDim=\dimen271
+\l__tblr_split_balance_int=\count534
+\l__tblr_strut_dp_dim=\dimen272
+\l__tblr_strut_ht_dim=\dimen273
+\g__tblr_cell_wd_dim=\dimen274
+\g__tblr_cell_ht_dim=\dimen275
+\g__tblr_cell_head_dim=\dimen276
+\g__tblr_cell_foot_dim=\dimen277
+\l__tblr_measured_cell_box=\box71
+\g__tblr_last_box=\box72
+\l__tblr_temp_box=\box73
+\l__tblr_column_target_dim=\dimen278
+\l__tblr_hfuzz_dim=\dimen279
+\l__tblr_caption_box=\box74
+\l__tblr_caption_left_box=\box75
+\lTblrRowHeadInt=\count535
+\lTblrRowFootInt=\count536
+\l__tblr_row_head_box=\box76
+\l__tblr_row_foot_box=\box77
+\l__tblr_row_head_foot_dim=\dimen280
+\lTblrTableWidthDim=\dimen281
+\l__tblr_table_firsthead_box=\box78
+\l__tblr_table_middlehead_box=\box79
+\l__tblr_table_lasthead_box=\box80
+\l__tblr_table_firstfoot_box=\box81
+\l__tblr_table_middlefoot_box=\box82
+\l__tblr_table_lastfoot_box=\box83
+\l__tblr_remain_height_dim=\dimen282
+\l__tblr_next_rows_dim=\dimen283
+\l__tblr_page_overfill_dim=\dimen284
+\l__tblr_long_from_int=\count537
+\l__tblr_long_to_int=\count538
+\l__tblr_curr_i_int=\count539
+\l__tblr_prev_i_int=\count540
+\lTblrTablePageInt=\count541
+\l__tblr_table_head_box=\box84
+\l__tblr_table_foot_box=\box85
+\l__tblr_table_head_foot_dim=\dimen285
+\l__tblr_table_head_body_foot_dim=\dimen286
+\l__tblr_table_box=\box86
+\lTblrRowFirstInt=\count542
+\lTblrRowLastInt=\count543
+\l__tblr_cover_box_a_dim=\dimen287
+\l__tblr_cover_box_b_dim=\dimen288
+\l__tblr_table_hlines_box=\box87
+\l__tblr_hline_box=\box88
+\l__tblr_row_box=\box89
+\l__tblr_col_o_wd_dim=\dimen289
+\l__tblr_col_b_wd_dim=\dimen290
+\l__tblr_hline_leftskip_dim=\dimen291
+\l__tblr_hline_rightskip_dim=\dimen292
+\l__tblr_row_ht_dim=\dimen293
+\l__tblr_row_dp_dim=\dimen294
+\l__tblr_row_abovesep_dim=\dimen295
+\l__tblr_row_belowsep_dim=\dimen296
+\l__tblr_row_vlines_box=\box90
+\l__tblr_vline_box=\box91
+\l__tblr_cell_box=\box92
+\l__tblr_row_upper_dim=\dimen297
+\l__tblr_row_lower_dim=\dimen298
+\l__tblr_row_vpace_dim=\dimen299
+\l__tblr_vline_aboveskip_dim=\dimen300
+\l__tblr_vline_belowskip_dim=\dimen301
+\lTblrCellRowSpanInt=\count544
+\lTblrCellColSpanInt=\count545
+\l__tblr_cell_wd_dim=\dimen302
+\l__tblr_cell_ht_dim=\dimen303
+\lTblrCellAboveBorderWidthDim=\dimen304
+\lTblrCellBelowBorderWidthDim=\dimen305
+\lTblrCellLeftBorderWidthDim=\dimen306
+\lTblrCellRightBorderWidthDim=\dimen307
+\l__tblr_diag_box=\box93
+\l__tblr_cell_inner_wd_dim=\dimen308
+\l__tblr_cell_inner_dp_dim=\dimen309
+\l__tblr_cell_hanchor_dim=\dimen310
+\l__tblr_last_cell_table_ht_dim=\dimen311
+\l__tblr_last_cell_table_dp_dim=\dimen312
+\l__tblr_last_vline_wd_dim=\dimen313
+\l__tblr_tikz_node_box=\box94
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tabularray-abnt\tabularray-abnt.sty
+Package: tabularray-abnt 2025/03/14 tabularray-abnt style (require tabularray package)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box95
+\sift@deathcycles=\count546
+\@vwid@loff=\dimen314
+\@vwid@roff=\dimen315
+)
+==> First Aid for varwidth.sty applied!
+\tabularray@abnt@remark@labellength=\skip111
+\c@quadro=\count547
+)
+
+d:/TCC/abntexto-ufc-tcc/main.tex:51: Class abntexto-ufc Error: tabularray-abnt 2025-08-08 or newer is required.
+
+See the abntexto-ufc class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 }
+      
+Update the TeX distribution before using tables=tabularray.
+
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen316
+\lightrulewidth=\dimen317
+\cmidrulewidth=\dimen318
+\belowrulesep=\dimen319
+\belowbottomsep=\dimen320
+\aboverulesep=\dimen321
+\abovetopsep=\dimen322
+\cmidrulesep=\dimen323
+\cmidrulekern=\dimen324
+\defaultaddspace=\dimen325
+\@cmidla=\count548
+\@cmidlb=\count549
+\@aboverulesep=\dimen326
+\@belowrulesep=\dimen327
+\@thisruleclass=\count550
+\@lastruleclass=\count551
+\@thisrulewidth=\dimen328
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count552
+\lst@gtempboxa=\box96
+\lst@token=\toks36
+\lst@length=\count553
+\lst@currlwidth=\dimen329
+\lst@column=\count554
+\lst@pos=\count555
+\lst@lostspace=\dimen330
+\lst@width=\dimen331
+\lst@newlines=\count556
+\lst@lineno=\count557
+\lst@maxwidth=\dimen332
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count558
+\lst@skipnumbers=\count559
+\lst@framebox=\box97
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2026/04/21 v5.1 (NLCT)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2025/04/03 v2.09 (NLCT)
+\@glsmfirst=\toks37
+\@glsmrest=\toks38
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2026/05/24 v1.6.8 (NLCT) Track Languages
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
+Package tracklang Info: Tracking dialect `brazilian' (language `portuges') on input line 264.
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+Package tracklang Info: Tracking dialect `brazilian' (language `portuges') on input line 264.
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glossaries-pt-BR.ldf
+File: glossaries-pt-BR.ldf 2014/11/23 v1.0
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glossaries-portuges-utf8.ldf)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-english.ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2026/07/31 v3.4.4 (NLCT)
+\l__datatool_tmpa_int=\count560
+\l__datatool_tmpb_int=\count561
+\l__datatool_tmpc_int=\count562
+\l__datatool_tmpd_int=\count563
+\l__datatool_count_int=\count564
+\l__datatool_tmp_datatype_int=\count565
+\l__datatool_tmpa_dim=\dimen333
+\l__datatool_tmpb_dim=\dimen334
+Package datatool-base Info: localisation warnings switched off (including tracklang warnings) on input line 944.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
+File: datatool-l3fp.def 2026/07/31 v3.4.4 (NLCT)
+)
+\@dtl@toks=\toks39
+\@dtl@tmpcount=\count566
+\dtl@tmplength=\skip112
+\l__datatool_measure_box=\box98
+\dtl@sortresult=\count567
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
+File: datatool-utf8.ldf 2026/07/31 v3.4.4 (NLCT)
+)
+\@dtl@datatype=\count568
+\c_datatool_unknown_int=\count569
+\l__datatool_year_int=\count570
+\l__datatool_month_int=\count571
+\l__datatool_day_int=\count572
+\l__datatool_hour_int=\count573
+\l__datatool_minute_int=\count574
+\l__datatool_second_int=\count575
+\l__datatool_tzhour_int=\count576
+\l__datatool_tzminute_int=\count577
+\l__datatool_julian_int=\count578
+\l__datatool_local_julian_int=\count579
+\l__datatool_prefix_int=\count580
+\l__datatool_suffix_int=\count581
+\@dtl@foreach@level=\count582
+\dtl@codeA=\count583
+\dtl@codeB=\count584
+)
+\gls@level=\count585
+\@gls@tmpb=\toks40
+\gls@tmplen=\skip113
+\l__glossaries_tmpa_dim=\dimen335
+\l__glossaries_tmpb_dim=\dimen336
+\glskeylisttok=\toks41
+\glslabeltok=\toks42
+\glsshorttok=\toks43
+\glslongtok=\toks44
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+Package: glossary-hypernav 2026/04/21 v5.1 (NLCT)
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+Package: glossary-list 2026/04/21 v5.1 (NLCT)
+\glslistdottedwidth=\skip114
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+Package: glossary-long 2026/04/21 v5.1 (NLCT)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
+\LTleft=\skip115
+\LTright=\skip116
+\LTpre=\skip117
+\LTpost=\skip118
+\LTchunksize=\count586
+\LTcapwidth=\dimen337
+\LT@head=\box99
+\LT@firsthead=\box100
+\LT@foot=\box101
+\LT@lastfoot=\box102
+\LT@gbox=\box103
+\LT@cols=\count587
+\LT@rows=\count588
+\c@LT@tables=\count589
+\c@LT@chunks=\count590
+\LT@p@ftn=\toks45
+)
+\glsdescwidth=\skip119
+\glspagelistwidth=\skip120
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+Package: glossary-super 2026/04/21 v5.1 (NLCT)
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2025/06/26 v4.2d the supertabular environment
+\c@tracingst=\count591
+\ST@wd=\dimen338
+\ST@rightskip=\skip121
+\ST@leftskip=\skip122
+\ST@parfillskip=\skip123
+\ST@pageleft=\dimen339
+\ST@headht=\dimen340
+\ST@tailht=\dimen341
+\ST@pagesofar=\dimen342
+\ST@pboxht=\dimen343
+\ST@rowht=\dimen344
+\ST@prevht=\dimen345
+\ST@toadd=\dimen346
+\ST@dimen=\dimen347
+\ST@pbox=\box104
+)) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+Package: glossary-tree 2026/04/21 v5.1 (NLCT)
+\l__glossaries_tree_max_known_level_int=\count592
+\l__glossaries_tree_offset_dim=\dimen348
+\l__glossaries_tree_namewidth_dim=\dimen349
+\l__glossaries_tree_symbolwidth_dim=\dimen350
+\l__glossaries_tree_prenamesym_width_dim=\dimen351
+\l__glossaries_tree_presubnamesym_width_dim=\dimen352
+\l__glossaries_tree_namewidth_padding_dim=\dimen353
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen354
+\l__glossaries_tree_namesymbolwidth_dim=\dimen355
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen356
+\l__glossaries_tree_level_int=\count593
+\glstreeindent=\skip124
+))
+\glswrite=\write5
+\glo@main@file=\write6
+\openout6 = `main.glo'.
+
+Package glossaries Info: Writing glossary file main.glo on input line 51.
+\glo@acronym@file=\write7
+\openout7 = `main.acn'.
+
+Package glossaries Info: Writing glossary file main.acn on input line 51.
+ (backmatter/glossary.tex)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
+File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 57.
+Class abntexto-ufc Info: Times New Roman not prepared for pdfLaTeX; using NewTX compatibility fallback on input line 57.
+ (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 57.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 57.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 57.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count594
+\scratchdimen=\dimen357
+\scratchbox=\box105
+\nofMPsegments=\count595
+\nofMParguments=\count596
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count597
+\MPscratchDim=\dimen358
+\MPnumerator=\count598
+\makeMPintoPDFobject=\count599
+\everyMPtoPDFconversion=\toks47
+) (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package babel Info: 'brazilian' activates 'portuges' shorthands.
+(babel)             Reported on input line 57.
+Package microtype Info: Patching varwidth to enable character protrusion.
+\MT@vwid@leftmargin=\dimen359
+\MT@vwid@rightmargin=\dimen360
+LaTeX Info: Redefining \microtypecontext on input line 57.
+Package microtype Info: Applying patch `item' on input line 57.
+Package microtype Info: Applying patch `toc' on input line 57.
+Package microtype Info: Applying patch `eqnum' on input line 57.
+Package microtype Info: Applying patch `footnote' on input line 57.
+Package microtype Info: Applying patch `verbatim' on input line 57.
+LaTeX Info: Redefining \microtypesetup on input line 57.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\c@mv@tabular=\count600
+\c@mv@boldtabular=\count601
+LaTeX Info: Command `\dddot' is already robust on input line 57.
+LaTeX Info: Command `\ddddot' is already robust on input line 57.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+))
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil' -> 'brazil-abnt'...
+Package biblatex Info: ... file 'brazil-abnt.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazil-abnt.lbx
+File: brazil-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\brazilian-abnt.lbx
+File: brazilian-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil'...
+Package biblatex Info: ... file 'brazil.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazil.lbx
+File: brazil.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\brazilian.lbx
+File: brazilian.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)))))
+Package biblatex Info: Trying to load language 'english' -> 'english-abnt'...
+Package biblatex Info: ... file 'english-abnt.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-abnt/lbx\english-abnt.lbx
+File: english-abnt.lbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 57.
+Package biblatex Info: Reference segment=0 on input line 57.
+\c@lstlisting=\count602
+<<sRGB.icc>>
+Package babel Info: Main language set to 'brazilian'.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.045pt on input line 64.
+<assets/institutional/ufc-coat-of-arms.png, id=11, 489.83pt x 732.7375pt>
+File: assets/institutional/ufc-coat-of-arms.png Graphic file (type png)
+<use assets/institutional/ufc-coat-of-arms.png>
+Package pdftex.def Info: assets/institutional/ufc-coat-of-arms.png  used on input line 64.
+(pdftex.def)             Requested size: 62.59596pt x 93.62683pt.
+ [1
+
+\openout5 = `main.ist'.
+
+
+
+
+{C:/Users/Eduardo Serpa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc} <./assets/institutional/ufc-coat-of-arms.png>]
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 66.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 66.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `minntx' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 66.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 66.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 66.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.045pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 66.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.62477pt on input line 66.
+ [1
+
+
+
+] [2
+
+
+
+] (frontmatter/summary.tex) [3
+
+
+
+] (frontmatter/abstract.tex) [4
+
+
+
+] (main.loi)
+\tf@loi=\write8
+\openout8 = `main.loi'.
+
+ [5
+
+
+
+]
+No file main.lot.
+\tf@lot=\write9
+\openout9 = `main.lot'.
+
+[6
+
+
+
+] (main.loc)
+\tf@loc=\write10
+\openout10 = `main.loc'.
+
+ [7
+
+
+
+]
+No file main.toc.
+\tf@toc=\write11
+\openout11 = `main.toc'.
+
+[8
+
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (chapters/1-introduction.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.03749pt on input line 13.
+ [9
+
+
+
+
+] Excluding 'comment' comment. Excluding 'comment' comment. [10] Excluding 'comment' comment.) (chapters/2-theoretical-background.tex [11]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.045pt on input line 13.
+ [12
+
+]
+
+LaTeX Warning: Citation 'shipley-bowker-communication' on page 13 undefined on input line 21.
+
+[13] [14] Excluding 'comment' comment.) (chapters/3-methodology.tex [15]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.045pt on input line 7.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 11.
+ (C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 11.
+ Excluding 'comment' comment.) (chapters/4-results.tex [16
+
+{C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] Excluding 'comment' comment. Excluding 'comment' comment. Excluding 'comment' comment.) (chapters/5-conclusion.tex [17
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.79279pt on input line 3.
+) [18
+
+]
+
+Package biblatex Warning: No driver for 'internet'.
+(biblatex)                Using fallback driver on input line 99.
+
+
+Package biblatex Warning: No driver for 'internet'.
+(biblatex)                Using fallback driver on input line 99.
+
+
+Package biblatex Warning: No driver for 'internet'.
+(biblatex)                Using fallback driver on input line 99.
+
+
+Package biblatex Warning: No driver for 'internet'.
+(biblatex)                Using fallback driver on input line 99.
+
+
+Package biblatex Warning: No driver for 'internet'.
+(biblatex)                Using fallback driver on input line 99.
+
+[19
+
+]
+No file main.gls.
+[20
+
+] (backmatter/appendices/appendix-a.tex) [21
+
+
+] (backmatter/annexes/annex-a.tex) [22
+
+
+]
+
+LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (1 not 23).
+               Rerun to correct this.
+
+(main.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 39616 strings out of 467441
+ 868062 string characters out of 5403668
+ 1869464 words of memory out of 5000000
+ 68245 multiletter control sequences out of 15000+600000
+ 685283 words of font info for 132 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 86i,7n,112p,2497b,4096s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb><C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Eduardo Serpa/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on main.pdf (23 pages, 414531 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 15910 words of extra memory for PDF output out of 17280 (max. 10000000)
+

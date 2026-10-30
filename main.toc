@@ -1,0 +1,27 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\contentsline {section}{\toclabelbox {1\hskip 1em\relax }Introdução}{9}{section.1}%
+\contentsline {subsection}{\toclabelbox {1.1\hskip 1em\relax }Problema}{10}{subsection.1.1}%
+\contentsline {subsection}{\toclabelbox {1.2\hskip 1em\relax }Objetivos}{10}{subsection.1.2}%
+\contentsline {section}{\toclabelbox {2\hskip 1em\relax }Fundamentação teórica}{12}{section.2}%
+\contentsline {subsection}{\toclabelbox {2.1\hskip 1em\relax }Computação distribuída}{12}{subsection.2.1}%
+\contentsline {subsection}{\toclabelbox {2.2\hskip 1em\relax }Serviços de mensageria instantânea}{13}{subsection.2.2}%
+\contentsline {subsection}{\toclabelbox {2.3\hskip 1em\relax }Matrix e Synapse}{13}{subsection.2.3}%
+\contentsline {subsection}{\toclabelbox {2.4\hskip 1em\relax }Sincronização antes do Matrix 2.0}{14}{subsection.2.4}%
+\contentsline {subsection}{\toclabelbox {2.5\hskip 1em\relax }Matrix 2.0 e Simplified Sliding Sync}{14}{subsection.2.5}%
+\contentsline {subsection}{\toclabelbox {2.6\hskip 1em\relax }Containerização e automação}{15}{subsection.2.6}%
+\contentsline {section}{\toclabelbox {3\hskip 1em\relax }Metodologia}{16}{section.3}%
+\contentsline {subsection}{\toclabelbox {3.1\hskip 1em\relax }Configuração do ambiente de testes}{16}{subsection.3.1}%
+\contentsline {subsubsection}{\toclabelbox {3.1.1\hskip 1em\relax }Requisitos de software}{16}{subsubsection.3.1.1}%
+\contentsline {subsection}{\toclabelbox {3.2\hskip 1em\relax }Utilizando os scripts}{16}{subsection.3.2}%
+\contentsline {section}{\toclabelbox {4\hskip 1em\relax }Resultados e discussão}{17}{section.4}%
+\contentsline {subsection}{\toclabelbox {4.1\hskip 1em\relax }Interpretação}{17}{subsection.4.1}%
+\contentsline {subsection}{\toclabelbox {4.2\hskip 1em\relax }Uso do modelo}{17}{subsection.4.2}%
+\contentsline {section}{\toclabelbox {5\hskip 1em\relax }Conclusão}{18}{section.5}%
+\contentsline {section}{\ufcTocPosttextualTitle {Referências}}{19}{section.5}%
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\contentsline {section}{\ufcTocPosttextualTitle {\MakeUppercase []{Glossário}}}{20}{cite.0@matrixorg-element-relationship}%
+\contentsline {appendix}{\toclabelbox {}\appendixlabelbox {Apêndice~A~---~}Checklist de validação usado no estudo demonstrativo}{21}{appendix.1}%
+\contentsline {annex}{\toclabelbox {}\annexlabelbox {Anexo~A~---~}Documento complementar externo}{22}{annex.1}%

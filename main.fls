@@ -1,0 +1,583 @@
+PWD d:\TCC\abntexto-ufc-tcc
+INPUT C:\Users\Eduardo Serpa\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\TCC\abntexto-ufc-tcc\main.tex
+OUTPUT main.log
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\documentmetadata-support.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\documentmetadata-support.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\documentmetadata-support.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement-init.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement-init.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\l3backend-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\l3backend-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\l3backend-testphase-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\l3backend-testphase-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-latest.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-latest.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-mc-code-generic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-mc-code-generic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf2.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf2.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-mathml.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-mathml.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-latex-book.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-latex-book.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\tagpdf-ns-latex-lab.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\tagpdf-ns-latex-lab.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-ns-pdf2.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-parent-child.csv
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tagpdf\tagpdf-parent-child.csv
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-names.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-names.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-new-or-2.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-new-or-2.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-footmisc.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-footnotes.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-footnotes.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-footnotes.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-block.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-block.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\alltt.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-enumitem.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-enumitem.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-context.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-context.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-kernel-changes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-kernel-changes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-sec.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-sec.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-sec-template.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-sec-template.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-toc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-toc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-minipage.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-minipage.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-graphic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-graphic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-float.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-float.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-bib.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-bib.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-text.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-text.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-marginpar.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-marginpar.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-title.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-title.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-table.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-table.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-math.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-math.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-math.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-math.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-math.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathpkg.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathpkg.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathpkg.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathintent.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathintent.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-mathintent.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-firstaid.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-firstaid.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-tikz.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-testphase-tikz.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement-firstaid.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\pdfmanagement-firstaid.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\color-ltx.sty
+INPUT .\abntexto-ufc.cls
+INPUT abntexto-ufc.cls
+INPUT .\abntexto.cls
+INPUT abntexto.cls
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\knuth-lib\null.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-pt-BR.ini
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-pt-BR.ini
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-pt-BR.ini
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-pt-BR.ini
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\xcolor-patches-tmp-ltx.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfmanagement\xcolor-patches-tmp-ltx.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxmath.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-amsmath.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-amsmath.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\latex-lab\latex-lab-amsmath.ltx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\centernot.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\binhex\binhex.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\bbx\abnt.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\cbx\abnt.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tabularray\tabularray.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tabularray\tabularray.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\ninecolors\ninecolors.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tabularray-abnt\tabularray-abnt.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tabularray-abnt\tabularray-abnt.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\base\glossaries.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\base\glossaries.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\mfirstuc\mfirstuc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\mfirstuc\mfirstuc.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xfor\xfor.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\xfor\xfor.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\supertabular\supertabular.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\supertabular\supertabular.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-pt-BR.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-pt-BR.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-pt-BR.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-portuges-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-portuges-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-portuges\glossaries-portuges-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries-english\glossaries-english.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-l3fp.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-l3fp.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-l3fp.def
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\datatool\datatool-utf8.ldf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-hypernav.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-hypernav.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-list.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-list.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-long.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-long.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-super.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-super.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\supertabular\supertabular.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\glossaries\styles\glossary-tree.sty
+OUTPUT main.glo
+OUTPUT main.acn
+INPUT .\backmatter\glossary.tex
+INPUT .\backmatter\glossary.tex
+INPUT .\backmatter\glossary.tex
+INPUT .\backmatter\glossary.tex
+INPUT backmatter\glossary.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxexa.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazilian-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazil.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\english-abnt.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+OUTPUT main.pdf
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\generic\colorprofiles\sRGB.icc
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT .\assets\institutional\ufc-coat-of-arms.png
+INPUT .\assets\institutional\ufc-coat-of-arms.png
+INPUT .\assets\institutional\ufc-coat-of-arms.png
+INPUT .\assets\institutional\ufc-coat-of-arms.png
+INPUT .\assets\institutional\ufc-coat-of-arms.png
+OUTPUT main.ist
+INPUT C:\Users\Eduardo Serpa\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ec-tlf.enc
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT .\frontmatter\summary.tex
+INPUT .\frontmatter\summary.tex
+INPUT .\frontmatter\summary.tex
+INPUT .\frontmatter\summary.tex
+INPUT frontmatter\summary.tex
+INPUT .\frontmatter\abstract.tex
+INPUT .\frontmatter\abstract.tex
+INPUT .\frontmatter\abstract.tex
+INPUT .\frontmatter\abstract.tex
+INPUT frontmatter\abstract.tex
+INPUT .\main.loi
+INPUT .\main.loi
+INPUT main.loi
+OUTPUT main.loi
+OUTPUT main.lot
+INPUT .\main.loc
+INPUT .\main.loc
+INPUT main.loc
+OUTPUT main.loc
+OUTPUT main.toc
+INPUT .\chapters\1-introduction.tex
+INPUT .\chapters\1-introduction.tex
+INPUT .\chapters\1-introduction.tex
+INPUT .\chapters\1-introduction.tex
+INPUT chapters\1-introduction.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT .\chapters\2-theoretical-background.tex
+INPUT .\chapters\2-theoretical-background.tex
+INPUT .\chapters\2-theoretical-background.tex
+INPUT .\chapters\2-theoretical-background.tex
+INPUT chapters\2-theoretical-background.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT .\chapters\3-methodology.tex
+INPUT .\chapters\3-methodology.tex
+INPUT .\chapters\3-methodology.tex
+INPUT .\chapters\3-methodology.tex
+INPUT chapters\3-methodology.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
+INPUT .\chapters\4-results.tex
+INPUT .\chapters\4-results.tex
+INPUT .\chapters\4-results.tex
+INPUT .\chapters\4-results.tex
+INPUT chapters\4-results.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
+INPUT .\chapters\5-conclusion.tex
+INPUT .\chapters\5-conclusion.tex
+INPUT .\chapters\5-conclusion.tex
+INPUT .\chapters\5-conclusion.tex
+INPUT chapters\5-conclusion.tex
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT .\backmatter\appendices\appendix-a.tex
+INPUT .\backmatter\appendices\appendix-a.tex
+INPUT .\backmatter\appendices\appendix-a.tex
+INPUT .\backmatter\appendices\appendix-a.tex
+INPUT backmatter\appendices\appendix-a.tex
+INPUT .\backmatter\annexes\annex-a.tex
+INPUT .\backmatter\annexes\annex-a.tex
+INPUT .\backmatter\annexes\annex-a.tex
+INPUT .\backmatter\annexes\annex-a.tex
+INPUT backmatter\annexes\annex-a.tex
+INPUT main.aux
+OUTPUT main.run.xml
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
+INPUT C:\Users\Eduardo Serpa\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb

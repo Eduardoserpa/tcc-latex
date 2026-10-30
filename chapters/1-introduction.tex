@@ -1,0 +1,61 @@
+\section{Introdução}\label{sec:introduction}
+Com o advento dos smartphones e a expansão do acesso à internet móvel, os aplicativos de mensageria, como WhatsApp, Telegram, Discord e Slack, se tornaram parte fundamental da vida em sociedade em diversas esferas das vidas pública e privada. Frequentemente, esses serviços são mais baratos e mais flexíveis que os meios de comunicação que eles suplantaram, como ligações telefônicas e mensagens curtas de texto (SMS), que são sujeitas a cobrança pelas operadoras de telefonia.
+
+Apesar dessas vantagens, há certos riscos relacionados ao caráter centralizado desses serviços de comunicação. Eles frequentemente são controlados por empresas privadas que operam internacionalmente, gerando maior incerteza quanto às leis de segurança digital que são aplicadas em diversos territórios e preocupações com a possibilidade de violações de privacidade e soberania nacional.
+
+Uma das possíveis soluções é a substituição desses serviços centralizados por outros, baseados em paradigmas de computação distribuída, como o protocolo Matrix. Ele consiste em uma série de especificações em código aberto que padronizam a comunicação entre diversos sistemas independentes por meio de uma interface de programação de aplicações (API) que reúne microsserviços. Isso não só o torna compatível com outros serviços de mensageria como dá a grupos de usuários todo o espectro de opções entre ter um único provedor central e ter um servidor autônomo para cada usuário, compartilhando todas as informações relevantes para o grupo entre si.
+
+Essa diferença de arquitetura traz certas vantagens, como maior controle sobre as políticas de privacidade, sobre as funções disponíveis e sobre as regras de uso às quais os usuários estão submetidos. Ela traz, porém, desafios técnicos para o funcionamento da aplicação, pois a ausência de um servidor central implica que a carga de trabalho total é dividida entre múltiplos nós da rede, incluindo os usuários. Torna-se, então, necessária a existência de algoritmos e fluxos de informação capazes de produzir um consenso entre os nós da rede.
+
+Para os serviços de mensageria baseados no padrão Matrix, o consenso é produzido a partir do processo de sincronização, que replica informações entre os provedores de serviço, garantindo que estejam disponíveis e consistentes para todos os usuários que compartilham espaços e que devem, portanto, ser capazes de acessar aquelas informações. Visando compensar os custos de processamento e de transferência de dados, a versão 2.0 do protocolo Matrix propõe o mecanismo de Simplified Sliding Sync, que se diferencia do endpoint /sync tradicional por [explicação, comparação].
+
+Dentre as implementações de mensageria com o padrão Matrix, o Synapse se destaca por ter sido a primeira e mais frequentemente atualizada, servindo de referência para as demais. A versão 1.114.0, lançada em setembro de 2024, é um marco importante por ter sido a primeira a utilizar nativamente o padrão 2.0 (). Comparando o desempenho dessa versão com a anterior, é possível quantificar os ganhos imediatos com essa alteração, mas é, também, necessário comparar com a versão mais recente para uma avaliação mais completa, incluindo o amadurecimento do Simplified Sliding Sync.
+
+[Objetivos, relação com a problemática e possíveis ganhos/justificativa]
+
+Métricas úteis para esse fim podem ser obtidas a partir de simulações em contêineres orquestrados por Docker Compose. A stack de simulação consiste, principalmente, em: uma instância de servidor Matrix com workers especializados para diferentes microsserviços (Synapse, implementado na linguagem Python), uma instância de um serviço que simula as requisições de usuário comuns (Locust, modificado para interagir com a API no padrão Matrix), e um proxy reverso (Nginx), que faz a ponte entre os dois para distribuir a carga entre workers especializados e facilitar a observabilidade entre diferentes funções da API.
+
+Essa configuração de componentes será 
+
+\begin{comment}
+A preparação de um trabalho acadêmico envolve duas responsabilidades distintas: produzir conteúdo científico consistente e apresentar esse conteúdo de acordo com as regras aplicáveis. Em documentos extensos, ajustes manuais de margens, títulos, listas, citações e elementos pré-textuais aumentam o risco de inconsistência e dificultam a repetição do processo. Sistemas de preparação de documentos como o \LaTeX{} permitem separar conteúdo e apresentação e automatizar parte desse trabalho \parencite{lamport1994}.
+
+Na Universidade Federal do Ceará (UFC), a normalização acadêmica combina normas técnicas vigentes e orientações institucionais publicadas pelo Sistema de Bibliotecas \parencite{ufc2026normalizacao}. Nesse contexto, uma classe documental pode reduzir tarefas repetitivas, mas não elimina a necessidade de revisar o texto, conferir as fontes consultadas e verificar os requisitos específicos do curso ou programa.
+
+Este TCC é um exemplo didático. O tema escolhido permite mostrar, em um documento curto, como organizar um trabalho real e como usar os principais recursos do \texttt{abntexto-ufc}. Explicações detalhadas da API permanecem na documentação do projeto; o corpo deste trabalho segue a estrutura acadêmica usual.
+\end{comment}
+
+\subsection{Problema}
+
+Descrição do problema.
+
+\begin{comment}
+Mesmo quando um modelo automatiza a apresentação, erros podem surgir por configuração inadequada, conteúdo incompleto ou diferenças entre o fonte e o PDF final. O problema considerado neste estudo é como organizar um fluxo simples capaz de compilar e verificar automaticamente propriedades básicas de um documento acadêmico antes da revisão humana.
+\end{comment}
+
+\subsection{Objetivos}
+
+Quantificar o impacto da implementação de Simplified Sliding Sync sobre o desempenho da sincronização de dados por nós de uma rede federada Matrix baseados em Synapse.
+
+\begin{ufclettereditems}
+    \item Estabelecer como padrão um ambiente de testes facilmente reprodutível, composto por ferramentas de conteinerização e de automação (Docker Compose e Bash), stack de simulação (Synapse Matrix, Locust e Nginx) e stack de telemetria (OpenTelemetry, Prometheus, Jaeger, Grafana); 
+    \item Formatar e utilizar dados reais de uso de aplicativos de mensageria para orientar as simulações realizadas com o Locust; 
+    \item Realizar comparações estatísticas de desempenho entre três versões de Synapse Matrix: a última antes da implementação nativa de Simplified Sliding Sync, a primeira com esse mecanismo e, por fim, a mais recente. 
+\end{ufclettereditems}
+
+\begin{comment}
+O objetivo geral é descrever um fluxo demonstrativo de validação automatizada de documentos acadêmicos produzidos em \LaTeX{}.
+
+Como objetivos específicos, pretende-se:
+
+\begin{ufclettereditems}
+  \item organizar o documento em etapas reprodutíveis de preparação, compilação e verificação;
+  \item observar propriedades do PDF que podem ser verificadas automaticamente;
+  \item registrar resultados de uma execução sintética do fluxo;
+  \item destacar quais decisões continuam dependentes de revisão humana.
+\end{ufclettereditems}
+
+\subsection{Organização do trabalho}
+
+Além desta introdução, a Seção~\ref{sec:background} apresenta os conceitos necessários; a Seção~\ref{sec:methodology} descreve o procedimento demonstrativo; a Seção~\ref{sec:results} reúne os resultados sintéticos; e a Seção~\ref{sec:conclusion} apresenta as considerações finais.
+\end{comment}

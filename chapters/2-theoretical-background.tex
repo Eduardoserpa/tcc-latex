@@ -1,0 +1,87 @@
+\section{Fundamentação teórica}\label{sec:background}
+
+%Use either `` or '' as an alternative to `"'.
+A problemática e a definição do experimento dependem de conceitos de computação e de redes de computadores para serem explicados.
+
+\subsection{Computação distribuída}
+
+	\textcite{tanenbaum-distribuidos-livro} definem o sistema distribuído como 'um conjunto de computadores independentes que se apresenta a seus usuários como um sistema único e coerente'. Por meio da internet, esse conjunto pode ser composto por entidades em diversas localidades e sob diversos domínios administrativos, desde que compartilhem uma interface que define o comportamento de cada uma em relação às outras e aos usuários. Essa camada intermediária que abstrai a heterogeneidade e a complexidade da rede é chamada de middleware.
+
+	Os nós de um sistema distribuído podem se relacionar de diversas formas, dependendo, por exemplo, do domínio administrativo sob o qual eles operam. Sistemas de arquitetura centralizada são caracterizadas pela relação entre servidores, que proveem um serviço, e clientes, que requisitam esses serviços~\parencite{tanenbaum-distribuidos-centralizada}. É o caso de serviços de mensageria instantâneos como Whatsapp e Discord, nos quais uma empresa intermedia toda a comunicação entre usuários, que passa criptografada por seus servidores para ser requisitada e descriptografada pelo cliente do usuário na outra ponta (citation-needed-2).
+	%citation-needed-2: referência oficial do Whatsapp e do Discord sobre arquitetura centralizada
+
+	Por outro lado, os sistemas de arquitetura federada são caracterizados pela cooperação entre nós completamente independentes, mas que compartilham as responsabilidades de gerenciar e de armazenar informações. Na prática, o arranjo mais comum é uma abordagem híbrida, na qual conjuntos de usuários têm relações centralizadas em servidores específicos que interagem entre si de modo completamente independente~\parencite{tanenbaum-distribuidos-federada}. É o caso, por exemplo, de serviços de mensageria instantânea baseados em padrões abertos como XMPP e Matrix (citation-needed-2). De modo análogo aos provedores de serviço de e-mail, cada \textit{homeserver} guarda os dados de seus usuários e intermedia a comunicação com outros domínios e seus respectivos usuários.
+	%citation-needed-2: referência oficial do XMPP e do Matrix sobre arquitetura federada
+	
+	Essa descentralização pode trazer importantes vantagens, como mais privacidade, resiliência, tolerância a falhas, escalabilidade e independência de provedores privados. Há, porém, custos operacionais decorrentes das arquiteturas distribuídas. Sem a autoridade de um nó central, é necessário executar algoritmos de consenso para manter a consistência e a integridade dos dados, gerando maior volume de comunicação na rede. Qualquer operação que afete nós afiliados a diferentes homeservers resulta, então, em maior consumo de recursos para transporte, armazenamento e processamento de dados, causando latência e perda de desempenho com o processo de sincronização (citation-needed-1).
+	%citation-needed-1: referência oficial do Matrix sobre sincronização e consistência de dados
+
+\subsection{Serviços de mensageria instantânea}
+
+	São, em resumo, sistemas de comunicação assíncrona e intermediada por um provedor de serviço (denominado 'intermediário' ou \textit{message broker}), que recebe mensagens de um remetente ('produtor' ou \textit{publisher}), notifica o destinatário ('consumidor' ou \textit{subscriber}) e as repassa a ele quando forem requisitadas por este (citation-needed-1). As opções mais populares, como SMS, WhatsApp, Telegram e Discord (citation-needed-2), utilizam arquiteturas centralizadas em servidores de propriedade das empresas que proveem esse serviço, facilitando sua adoção pelos usuários, que precisam apenas instalar o cliente local em um de seus dispositivos~\parencite{shipley-bowker-communication}.
+	%citation-needed-1: definição de serviço de mensageria destacando a arquitura
+	%citation-needed-2: avaliação da popularidade do WhatsApp, Telegram e Discord
+    
+    Há, porém, preocupações quanto aos riscos associados a esse enorme fluxo de dados entre pessoas e empresas estrangeiras. Embora não funcionem como fóruns abertos, os serviços de mensageria estão profundamente integrados às dinâmicas sociais e econômicas de grande parte da população~\parencite{whatsapp-plataformizacao}, ampliando o possível impacto de interrupções de serviço, de alterações nos Termos de Uso da aplicação ou de uso indevido de informações e canais de comunicação por empresas ou governos. Para mitigar esses riscos, organizações e pessoas podem adotar ou desenvolver alternativas baseadas em arquitetura federada. Dentre os principais exemplos, estão diversos órgãos de governos europeus, como França, Alemanha, Suíça e Reino Unido~\parencite{matrix-europe}.
+	%https://link.springer.com/chapter/10.1007/978-981-92-5039-4_3
+	
+\subsection{Matrix e Synapse}
+
+	O protocolo Matrix é um padrão aberto, baseado em princípios de computação distribuída, que possibilita a comunicação entre nós de uma rede de arquitetura federada. Ele é mantido pela Matrix.org Foundation, que se propõe a ser um agente neutro e aberto sobre sua evolução, estabelecendo um conjunto mínimo de interfaces que torna diferentes implementações do protocolo interoperáveis~\parencite{matrixorg-about}.
+
+	Dentre as implementações baseadas em Matrix, o Synapse se destaca por ter sido o primeiro, desenvolvido pelos próprios criadores do protocolo, e por ser o mais atualizado. Esses fatores contribuem para a popularidade de seu cliente associado, o Element, e para sua própria como \textit{homeserver}, além de servir como referência para outras implementações~\parencite{matrixorg-element-relationship}.
+
+	A principal unidade de informação do Matrix é a sala, que reúne usuários oriundos de quaisquer \textit{homeservers} para compartilhar um conjunto de informações que, sendo comum a todos eles, são armazenadas como cópias criptografadas por cada um dos provedores envolvidos na comunicação. Além disso, os usuários podem facilmente transferir seus dados para outro servidor. Essa redundância garante que a disponibilidade dos dados só seja ameaçada por uma falha simultânea de todos os \textit{homeservers}~\parencite{matrixorg-rooms}.
+
+	O ecossistema Matrix permite, também, integração com outros serviços de mensageria por meio de pontes (ou "\textit{bridges}") que traduzem protocolos e formatos de dados entre os sistemas, elimina a necessidade de dividir recursos e atenção entre múltiplas aplicações. Embora esse fator favoreça a adoção do protocolo por novos usuários, ele também traz riscos à privacidade, pois esse processo de tradução requer que a ponte decodifique a mensagem, implicando na perda da encriptação de ponta-a-ponta (ou \textit{end-to-end encryption}, E2EE). É, portanto, recomendado que a ponte seja hospedada pelo próprio usuário ou por um provedor confiável~\parencite{matrixorg-bridges}.
+
+\subsection{Sincronização antes do Matrix 2.0}
+		
+    Todas as atualizações sobre a sala eram compartilhadas com todos os outros participantes daquela sala mediante requisição de sincronização, que é realizada pelos clientes locais dos usuários sempre que eles se conectam à rede e, periodicamente, a cada 30 segundos. Como as atualizações são replicadas em todos os clientes locais, basta que um deles esteja atualizado para que os demais também estejam (citation-needed-1).
+    %citation-needed-1: referência oficial do Synapse sobre sincronização 
+
+    Esse volume de troca de informações cresce drasticamente com a quantidade de usuários ativos e provedores envolvidos em uma mesma sala, gerando atrasos e gargalos de desempenho no processo de sincronização. Como forma de mitigação do problema, os servidores e clientes locais podem definir um intervalo de tempo para manter apenas as mensagens recentes (citation-needed-1).
+    %citation-needed-1: referência oficial do Synapse sobre sincronização de antes do Matrix 2.0 (v1.33)
+
+\subsection{Matrix 2.0 e Simplified Sliding Sync}
+
+    Dentre outras mudanças propostas no projeto Matrix 2.0, a implementação do mecanismo de \textit{Simplified Sliding Sync} se destaca por propor uma alternativa mais eficiente para o processo de sincronização. Consiste, essencialmente, em ignorar informações que não são imediatamente relevantes para o usuário que requisitou atualizações, como pequenas alterações de estado entre mensagens de uma conversa. Desse modo, o contexto do usuário passa a orientar o movimento do intervalo de interesse do cliente local sobre o histórico de uma sala ao invés de repetir todos os passos necessários para sincronizar os estados (citation-needed-1).
+
+	É, portanto, necessário simular os padrões de comportamento reais para mensurar o impacto que o SSS tem sobre o desempenho, uma vez que essa otimização depende diretamente do contexto de uso da aplicação. 
+
+	
+\subsection{Containerização e automação}
+
+    Para garantir a reprodutibilidade dos experimentos, as condições precisam ser controladas e isoladas das particularidades do sistema no qual ele é executado. As ferramentas mais comumente utilizadas para isso são máquinas virtuais e contêineres, com o segundo emulando apenas a camada de \textit{software}, enquanto o primeiro reproduz, também, condições de \textit{hardware}, precisando de mais recursos para realizar testes em escala semelhante (citation-needed-1).
+	%citation-needed-1: comparação entre máquinas virtuais e contêineres, com referência oficial do Docker
+
+	Dentre as ferramentas de containerização, o Docker Compose se destaca pela facilidade de configurar, executar e documentar as dependências de um sistema composto por um conjunto de processos coordenados, mas atuando em contêineres próprios. Dentre esses processos, estão o servidor Synapse, com múltiplos \textit{workers} especializados em diferentes tarefas necessárias para a sincronização (citation-needed-1).
+	%citation-needed-1: referência oficial do Docker Compose
+	
+	\begin{comment}
+	Em apoio ao funcionamento interno do Synapse, estão um banco de dados PostgreSQL e um cache Redis para persistência de informações de longo ou curto prazo, respectivamente. Para apoio externo, um proxy reverso Nginx foi configurado para direcionar as requisições dos clientes para o \textit{worker} adequado.
+	\end{comment}
+
+\begin{comment}
+\subsection{Preparação de documentos em LaTeX}
+
+O \LaTeX{} trabalha com arquivos fonte que descrevem a estrutura e o conteúdo do documento. A apresentação é obtida durante a compilação, o que favorece o reaproveitamento de estilos e a separação entre a escrita acadêmica e decisões tipográficas repetitivas \parencite{lamport1994}. Essa característica é especialmente útil em trabalhos longos, nos quais referências cruzadas, sumário e bibliografia precisam permanecer coerentes após sucessivas alterações.
+
+Neste tutorial, cada capítulo é mantido em um arquivo próprio. O arquivo \texttt{main.tex} concentra apenas configuração, ordem dos elementos e chamadas principais. Essa divisão torna mais simples localizar o conteúdo que o estudante realmente precisa editar.
+
+\subsection{Normalização acadêmica}
+
+A apresentação de trabalhos acadêmicos é orientada por normas técnicas e, no contexto institucional, por regras complementares. A NBR 14724 estabelece a estrutura geral dos trabalhos acadêmicos \parencite{abnt14724}; citações são tratadas pela NBR 10520 \parencite{abnt10520}; e a elaboração das referências segue a NBR 6023 vigente \parencite{abnt6023}.
+
+A \gls{normalizacao} não deve ser entendida como substituta da qualidade científica. Seu papel é tornar a apresentação previsível, legível e verificável. Por isso, este exemplo usa a classe para concentrar a formatação e reserva ao autor a responsabilidade sobre argumentos, fontes e resultados.
+
+\subsection{Citações e referências}
+
+As referências bibliográficas são armazenadas em \texttt{backmatter/references.bib}. Quando a autoria participa da frase, pode-se escrever, por exemplo, que \textcite{lamport1994} apresenta o sistema \LaTeX{} como uma ferramenta de preparação documental. Quando a fonte aparece apenas como apoio à afirmação, usa-se a forma parentética \parencite{abnt6023}.
+
+O uso de comandos bibliográficos evita digitar manualmente autor e ano e facilita a manutenção da lista final. Citações diretas, quando necessárias em um trabalho real, devem reproduzir fielmente a fonte consultada e incluir o localizador aplicável.
+
+\subsection{Validação reprodutível}
+
+Neste estudo, \gls{validacao} significa observar propriedades mensuráveis do arquivo produzido e registrar o resultado de forma repetível. Nem todo requisito acadêmico pode ser reduzido a um teste automático. Clareza do texto, adequação metodológica, pertinência das conclusões e qualidade das fontes continuam dependendo de avaliação intelectual e revisão humana.
+\end{comment}
